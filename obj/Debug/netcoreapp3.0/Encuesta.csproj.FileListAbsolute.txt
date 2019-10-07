@@ -1,35 +1,70 @@
-C:\Users\GAD Desarrollo\source\repos\Encuesta\bin\Debug\netcoreapp3.0\appsettings.Development.json
-C:\Users\GAD Desarrollo\source\repos\Encuesta\bin\Debug\netcoreapp3.0\appsettings.json
-C:\Users\GAD Desarrollo\source\repos\Encuesta\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
-C:\Users\GAD Desarrollo\source\repos\Encuesta\obj\Debug\netcoreapp3.0\Encuesta.csprojAssemblyReference.cache
-C:\Users\GAD Desarrollo\source\repos\Encuesta\obj\Debug\netcoreapp3.0\staticwebassets\Encuesta.StaticWebAssets.Manifest.cache
-C:\Users\GAD Desarrollo\source\repos\Encuesta\obj\Debug\netcoreapp3.0\staticwebassets\Encuesta.StaticWebAssets.xml
-C:\Users\GAD Desarrollo\source\repos\Encuesta\obj\Debug\netcoreapp3.0\Encuesta.RazorAssemblyInfo.cache
-C:\Users\GAD Desarrollo\source\repos\Encuesta\obj\Debug\netcoreapp3.0\Encuesta.RazorAssemblyInfo.cs
-C:\Users\GAD Desarrollo\source\repos\Encuesta\obj\Debug\netcoreapp3.0\Encuesta.AssemblyInfoInputs.cache
-C:\Users\GAD Desarrollo\source\repos\Encuesta\obj\Debug\netcoreapp3.0\Encuesta.AssemblyInfo.cs
-C:\Users\GAD Desarrollo\source\repos\Encuesta\obj\Debug\netcoreapp3.0\Encuesta.TagHelpers.input.cache
-C:\Users\GAD Desarrollo\source\repos\Encuesta\obj\Debug\netcoreapp3.0\Encuesta.TagHelpers.output.cache
-C:\Users\GAD Desarrollo\source\repos\Encuesta\obj\Debug\netcoreapp3.0\Encuesta.RazorCoreGenerate.cache
-C:\Users\GAD Desarrollo\source\repos\Encuesta\obj\Debug\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
-C:\Users\GAD Desarrollo\source\repos\Encuesta\obj\Debug\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
-C:\Users\GAD Desarrollo\source\repos\Encuesta\obj\Debug\netcoreapp3.0\Razor\Pages\Privacy.cshtml.g.cs
-C:\Users\GAD Desarrollo\source\repos\Encuesta\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
-C:\Users\GAD Desarrollo\source\repos\Encuesta\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\GAD Desarrollo\source\repos\Encuesta\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
-C:\Users\GAD Desarrollo\source\repos\Encuesta\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
-C:\Users\GAD Desarrollo\source\repos\Encuesta\obj\Debug\netcoreapp3.0\Encuesta.RazorTargetAssemblyInfo.cache
-C:\Users\GAD Desarrollo\source\repos\Encuesta\obj\Debug\netcoreapp3.0\Encuesta.RazorTargetAssemblyInfo.cs
-C:\Users\GAD Desarrollo\source\repos\Encuesta\bin\Debug\netcoreapp3.0\Encuesta.exe
-C:\Users\GAD Desarrollo\source\repos\Encuesta\bin\Debug\netcoreapp3.0\Encuesta.deps.json
-C:\Users\GAD Desarrollo\source\repos\Encuesta\bin\Debug\netcoreapp3.0\Encuesta.runtimeconfig.json
-C:\Users\GAD Desarrollo\source\repos\Encuesta\bin\Debug\netcoreapp3.0\Encuesta.runtimeconfig.dev.json
-C:\Users\GAD Desarrollo\source\repos\Encuesta\bin\Debug\netcoreapp3.0\Encuesta.dll
-C:\Users\GAD Desarrollo\source\repos\Encuesta\bin\Debug\netcoreapp3.0\Encuesta.pdb
-C:\Users\GAD Desarrollo\source\repos\Encuesta\bin\Debug\netcoreapp3.0\Encuesta.Views.dll
-C:\Users\GAD Desarrollo\source\repos\Encuesta\bin\Debug\netcoreapp3.0\Encuesta.Views.pdb
-C:\Users\GAD Desarrollo\source\repos\Encuesta\obj\Debug\netcoreapp3.0\Encuesta.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\GAD Desarrollo\source\repos\Encuesta\obj\Debug\netcoreapp3.0\Encuesta.Views.pdb
-C:\Users\GAD Desarrollo\source\repos\Encuesta\obj\Debug\netcoreapp3.0\Encuesta.dll
-C:\Users\GAD Desarrollo\source\repos\Encuesta\obj\Debug\netcoreapp3.0\Encuesta.pdb
-C:\Users\GAD Desarrollo\source\repos\Encuesta\obj\Debug\netcoreapp3.0\Encuesta.csproj.CopyComplete
+C:/Users/GAD Desarrollo/source/repos/Encuesta/bin/Debug/netcoreapp3.0/appsettings.Development.json
+C:/Users/GAD Desarrollo/source/repos/Encuesta/bin/Debug/netcoreapp3.0/appsettings.json
+C:/Users/GAD Desarrollo/source/repos/Encuesta/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+C:/Users/GAD Desarrollo/source/repos/Encuesta/obj/Debug/netcoreapp3.0/Encuesta.csprojAssemblyReference.cache
+C:/Users/GAD Desarrollo/source/repos/Encuesta/obj/Debug/netcoreapp3.0/staticwebassets/Encuesta.StaticWebAssets.Manifest.cache
+C:/Users/GAD Desarrollo/source/repos/Encuesta/obj/Debug/netcoreapp3.0/staticwebassets/Encuesta.StaticWebAssets.xml
+C:/Users/GAD Desarrollo/source/repos/Encuesta/obj/Debug/netcoreapp3.0/Encuesta.RazorAssemblyInfo.cache
+C:/Users/GAD Desarrollo/source/repos/Encuesta/obj/Debug/netcoreapp3.0/Encuesta.RazorAssemblyInfo.cs
+C:/Users/GAD Desarrollo/source/repos/Encuesta/obj/Debug/netcoreapp3.0/Encuesta.AssemblyInfoInputs.cache
+C:/Users/GAD Desarrollo/source/repos/Encuesta/obj/Debug/netcoreapp3.0/Encuesta.AssemblyInfo.cs
+C:/Users/GAD Desarrollo/source/repos/Encuesta/obj/Debug/netcoreapp3.0/Encuesta.TagHelpers.input.cache
+C:/Users/GAD Desarrollo/source/repos/Encuesta/obj/Debug/netcoreapp3.0/Encuesta.TagHelpers.output.cache
+C:/Users/GAD Desarrollo/source/repos/Encuesta/obj/Debug/netcoreapp3.0/Encuesta.RazorCoreGenerate.cache
+C:/Users/GAD Desarrollo/source/repos/Encuesta/obj/Debug/netcoreapp3.0/Razor/Pages/Error.cshtml.g.cs
+C:/Users/GAD Desarrollo/source/repos/Encuesta/obj/Debug/netcoreapp3.0/Razor/Pages/Index.cshtml.g.cs
+C:/Users/GAD Desarrollo/source/repos/Encuesta/obj/Debug/netcoreapp3.0/Razor/Pages/Privacy.cshtml.g.cs
+C:/Users/GAD Desarrollo/source/repos/Encuesta/obj/Debug/netcoreapp3.0/Razor/Pages/Shared/_Layout.cshtml.g.cs
+C:/Users/GAD Desarrollo/source/repos/Encuesta/obj/Debug/netcoreapp3.0/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/GAD Desarrollo/source/repos/Encuesta/obj/Debug/netcoreapp3.0/Razor/Pages/_ViewImports.cshtml.g.cs
+C:/Users/GAD Desarrollo/source/repos/Encuesta/obj/Debug/netcoreapp3.0/Razor/Pages/_ViewStart.cshtml.g.cs
+C:/Users/GAD Desarrollo/source/repos/Encuesta/obj/Debug/netcoreapp3.0/Encuesta.RazorTargetAssemblyInfo.cache
+C:/Users/GAD Desarrollo/source/repos/Encuesta/obj/Debug/netcoreapp3.0/Encuesta.RazorTargetAssemblyInfo.cs
+C:/Users/GAD Desarrollo/source/repos/Encuesta/bin/Debug/netcoreapp3.0/Encuesta.exe
+C:/Users/GAD Desarrollo/source/repos/Encuesta/bin/Debug/netcoreapp3.0/Encuesta.deps.json
+C:/Users/GAD Desarrollo/source/repos/Encuesta/bin/Debug/netcoreapp3.0/Encuesta.runtimeconfig.json
+C:/Users/GAD Desarrollo/source/repos/Encuesta/bin/Debug/netcoreapp3.0/Encuesta.runtimeconfig.dev.json
+C:/Users/GAD Desarrollo/source/repos/Encuesta/bin/Debug/netcoreapp3.0/Encuesta.dll
+C:/Users/GAD Desarrollo/source/repos/Encuesta/bin/Debug/netcoreapp3.0/Encuesta.pdb
+C:/Users/GAD Desarrollo/source/repos/Encuesta/bin/Debug/netcoreapp3.0/Encuesta.Views.dll
+C:/Users/GAD Desarrollo/source/repos/Encuesta/bin/Debug/netcoreapp3.0/Encuesta.Views.pdb
+C:/Users/GAD Desarrollo/source/repos/Encuesta/obj/Debug/netcoreapp3.0/Encuesta.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/GAD Desarrollo/source/repos/Encuesta/obj/Debug/netcoreapp3.0/Encuesta.Views.pdb
+C:/Users/GAD Desarrollo/source/repos/Encuesta/obj/Debug/netcoreapp3.0/Encuesta.dll
+C:/Users/GAD Desarrollo/source/repos/Encuesta/obj/Debug/netcoreapp3.0/Encuesta.pdb
+C:/Users/GAD Desarrollo/source/repos/Encuesta/obj/Debug/netcoreapp3.0/Encuesta.csproj.CopyComplete
+/Users/ricardo/Desktop/SurveyNetCore/bin/Debug/netcoreapp3.0/appsettings.Development.json
+/Users/ricardo/Desktop/SurveyNetCore/bin/Debug/netcoreapp3.0/appsettings.json
+/Users/ricardo/Desktop/SurveyNetCore/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+/Users/ricardo/Desktop/SurveyNetCore/bin/Debug/netcoreapp3.0/Encuesta
+/Users/ricardo/Desktop/SurveyNetCore/bin/Debug/netcoreapp3.0/Encuesta.deps.json
+/Users/ricardo/Desktop/SurveyNetCore/bin/Debug/netcoreapp3.0/Encuesta.runtimeconfig.json
+/Users/ricardo/Desktop/SurveyNetCore/bin/Debug/netcoreapp3.0/Encuesta.runtimeconfig.dev.json
+/Users/ricardo/Desktop/SurveyNetCore/bin/Debug/netcoreapp3.0/Encuesta.dll
+/Users/ricardo/Desktop/SurveyNetCore/bin/Debug/netcoreapp3.0/Encuesta.pdb
+/Users/ricardo/Desktop/SurveyNetCore/bin/Debug/netcoreapp3.0/Encuesta.Views.dll
+/Users/ricardo/Desktop/SurveyNetCore/bin/Debug/netcoreapp3.0/Encuesta.Views.pdb
+/Users/ricardo/Desktop/SurveyNetCore/obj/Debug/netcoreapp3.0/Encuesta.csprojAssemblyReference.cache
+/Users/ricardo/Desktop/SurveyNetCore/obj/Debug/netcoreapp3.0/staticwebassets/Encuesta.StaticWebAssets.Manifest.cache
+/Users/ricardo/Desktop/SurveyNetCore/obj/Debug/netcoreapp3.0/staticwebassets/Encuesta.StaticWebAssets.xml
+/Users/ricardo/Desktop/SurveyNetCore/obj/Debug/netcoreapp3.0/Encuesta.MvcApplicationPartsAssemblyInfo.cache
+/Users/ricardo/Desktop/SurveyNetCore/obj/Debug/netcoreapp3.0/Encuesta.RazorAssemblyInfo.cache
+/Users/ricardo/Desktop/SurveyNetCore/obj/Debug/netcoreapp3.0/Encuesta.RazorAssemblyInfo.cs
+/Users/ricardo/Desktop/SurveyNetCore/obj/Debug/netcoreapp3.0/Encuesta.AssemblyInfoInputs.cache
+/Users/ricardo/Desktop/SurveyNetCore/obj/Debug/netcoreapp3.0/Encuesta.AssemblyInfo.cs
+/Users/ricardo/Desktop/SurveyNetCore/obj/Debug/netcoreapp3.0/Encuesta.TagHelpers.input.cache
+/Users/ricardo/Desktop/SurveyNetCore/obj/Debug/netcoreapp3.0/Encuesta.TagHelpers.output.cache
+/Users/ricardo/Desktop/SurveyNetCore/obj/Debug/netcoreapp3.0/Encuesta.RazorCoreGenerate.cache
+/Users/ricardo/Desktop/SurveyNetCore/obj/Debug/netcoreapp3.0/Razor/Pages/Error.cshtml.g.cs
+/Users/ricardo/Desktop/SurveyNetCore/obj/Debug/netcoreapp3.0/Razor/Pages/Index.cshtml.g.cs
+/Users/ricardo/Desktop/SurveyNetCore/obj/Debug/netcoreapp3.0/Razor/Pages/Privacy.cshtml.g.cs
+/Users/ricardo/Desktop/SurveyNetCore/obj/Debug/netcoreapp3.0/Razor/Pages/Shared/_Layout.cshtml.g.cs
+/Users/ricardo/Desktop/SurveyNetCore/obj/Debug/netcoreapp3.0/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/ricardo/Desktop/SurveyNetCore/obj/Debug/netcoreapp3.0/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/ricardo/Desktop/SurveyNetCore/obj/Debug/netcoreapp3.0/Razor/Pages/_ViewStart.cshtml.g.cs
+/Users/ricardo/Desktop/SurveyNetCore/obj/Debug/netcoreapp3.0/Encuesta.RazorTargetAssemblyInfo.cache
+/Users/ricardo/Desktop/SurveyNetCore/obj/Debug/netcoreapp3.0/Encuesta.RazorTargetAssemblyInfo.cs
+/Users/ricardo/Desktop/SurveyNetCore/obj/Debug/netcoreapp3.0/Encuesta.Views.pdb
+/Users/ricardo/Desktop/SurveyNetCore/obj/Debug/netcoreapp3.0/Encuesta.dll
+/Users/ricardo/Desktop/SurveyNetCore/obj/Debug/netcoreapp3.0/Encuesta.pdb
+/Users/ricardo/Desktop/SurveyNetCore/obj/Debug/netcoreapp3.0/Encuesta.csproj.CopyComplete

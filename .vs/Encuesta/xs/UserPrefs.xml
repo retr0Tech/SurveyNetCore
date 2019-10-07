@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{211226B1-52D9-4A6B-9FD4-45B67ADDF361}|Default">
+  <MonoDevelop.Ide.ItemProperties.Encuesta PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Index.cshtml">
+    <Files>
+      <File FileName="Pages/Index.cshtml" Line="34" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Encuesta" expanded="True">
+            <Node name="Encuesta" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Index.cshtml" selected="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -82,35 +82,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\GAD Desarrollo\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/ricardo/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GAD Desarrollo\\source\\repos\\Encuesta\\Encuesta.csproj",
+      "projectUniqueName": "/Users/ricardo/Desktop/SurveyNetCore/Encuesta.csproj",
       "projectName": "Encuesta",
-      "projectPath": "C:\\Users\\GAD Desarrollo\\source\\repos\\Encuesta\\Encuesta.csproj",
-      "packagesPath": "C:\\Users\\GAD Desarrollo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GAD Desarrollo\\source\\repos\\Encuesta\\obj\\",
+      "projectPath": "/Users/ricardo/Desktop/SurveyNetCore/Encuesta.csproj",
+      "packagesPath": "/Users/ricardo/.nuget/packages/",
+      "outputPath": "/Users/ricardo/Desktop/SurveyNetCore/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\GAD Desarrollo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/ricardo/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\GAD Desarrollo\\Desktop\\Android_ScannerSDK_v2.4.5.0\\android_scanner_sdk_demo_v2.4.5.0_src": {},
-        "C:\\Users\\GAD Desarrollo\\Desktop\\Honeywell Scanner SDK": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -150,7 +143,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }
